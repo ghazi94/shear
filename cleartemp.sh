@@ -1,0 +1,4 @@
+#!/bin/bash
+
+WORKING_DIRECTORY=$1
+rm -rf "$WORKING_DIRECTORY/*"
