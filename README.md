@@ -9,3 +9,6 @@ Create virtualenv folder with Python 3.6
 Install the required dependencies
 
 To create a zip for the aws lambda, run deploy.sh command
+
+CREDITS TO:
+https://github.com/adieuadieu/serverless-chrome
